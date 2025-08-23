@@ -83,6 +83,12 @@ I am currently conducting research on the use of large language models (LLMs) fo
 
 
 ## Fine-tuning of LLMs
+| Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
+|------------------------------------------------------|------------------------------------------------------------------|---------------------------------|
+|The Guide to Fine-Tuning LLMs (2024-ARXIV)|[[Link](https://arxiv.org/pdf/2408.13296v1#page=10.67)]|The Guide to Fine-Tuning LLMs|
+
+
+
 
 ## LLMs for real-world applications
 | Paper (Date of publication-Publisher)                                                | Link                                                     |Concise description    |
